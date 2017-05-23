@@ -1,5 +1,5 @@
-import pygame
 import sys
+import pygame
 
 pygame.init()
 screen_width, screen_height = 600, 650
@@ -14,7 +14,7 @@ blue_1 = (16, 28, 64)  # Darkest
 blue_2 = (32, 56, 127)  # Mid
 blue_3 = (52, 91, 203)  # Kinda light
 
-arcon_font = "Arcon-Regular.ttf"
+arcon_font = "Fonts/Arcon-Regular.ttf"
 
 button_width = 300
 button_height = 50
